@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.softserveinc.itacademy.bikechampionship.server.service.UserServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.081 s - in com.softserveinc.itacademy.bikechampionship.server.service.UserServiceImplTest

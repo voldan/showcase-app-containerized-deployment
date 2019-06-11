@@ -1,0 +1,17 @@
+#===================================================
+#             Set up building profile:
+#===================================================
+# aws - for Amazon Web Services
+# localhost - for localhost with MySql
+# docker - for Docker containers
+# custom - for custom config
+#===================================================
+# By default - for commit changes -  set up docker
+#===================================================
+# To make own local setup - create application.yml
+# with needed config and add it to .gitignore
+#===================================================
+
+spring:
+  profiles:
+    active: custom
