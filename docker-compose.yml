@@ -68,6 +68,7 @@ services:
     networks:
       - fe-nw
 
+#  TODO: fix backend
   backend:
     build:
       context: ./dockerfiles/backend/
